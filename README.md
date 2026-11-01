@@ -143,3 +143,7 @@ directories are removed. Non-empty directories remain untouched.
   ```
   They have since been renamed to their current names without the suffix.
 - All scripts now use LF line endings and carry in-file documentation headers.
+
+## License
+
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.

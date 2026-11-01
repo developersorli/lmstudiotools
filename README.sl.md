@@ -143,3 +143,7 @@ natanko isti. Neprazni imeniki ostanejo netaknjeni.
   chmod +x import_models_fixed.sh
   ```
 - Vse skripte zdaj uporabljajo LF prelome in imajo dokumentacijske hederje znotraj datoteke.
+
+## Licenca
+
+Razširjeno pod MIT licenco. Podrobnosti so v datoteki `LICENSE`.
